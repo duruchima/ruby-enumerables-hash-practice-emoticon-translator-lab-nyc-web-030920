@@ -9,7 +9,7 @@ def load_library(file_path)
     hash[get_emoticon][emoticons][0] = emoticons[1]
 
   end
-
+  hash
 end
 
 def get_japanese_emoticon
